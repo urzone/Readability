@@ -9,7 +9,7 @@
 
 <main class="section is-medium columns is-flex is-vcentered">
 	<div class="container is-max-desktop has-text-centered">
-		<h1 class="title">Readability Bot</h1>
+		<h1 class="title">X Readability</h1>
 		<form action="/api/readability" method="get" class="search-form">
 			<div class="field has-addons">
 				<p class="control is-expanded">
@@ -33,7 +33,7 @@
 		</form>
 		<p>
 			Telegram:
-			<a href="https://t.me/ReadabBot" target="_blank"> @ReadabBot </a>
+			<a href="https://t.me/XReadability" target="_blank"> @XReadability </a>
 			<span class="seperator">|</span>
 			<a href="https://github.com/gowee/readability-bot" target="_blank">
 				Source
